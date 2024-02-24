@@ -1,8 +1,8 @@
 import { React } from 'react';
 
-import './App.css';
+import './assets/styles/app.css';
 
-import Calculator from './Calculator/Calculator';
+import Calculator from './components/calculator/calculator';
 
 const App = () => (
   <div>

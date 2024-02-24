@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 
-import './Calculator.css';
+import './calculator.css';
 
 const Calculator = () => {
   const [history, setHistory] = useState('');
